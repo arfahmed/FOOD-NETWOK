@@ -1,0 +1,130 @@
+body {
+  padding: 0%;
+  margin: 0%;
+  font-family: "Roboto", sans-serif;
+}
+h1 {
+  font-size: 50;
+}
+.skip {
+  color: orange;
+}
+h1 {
+  font-size: 50px;
+}
+/* All paragraph */
+p {
+  font-size: 18px;
+  color: gray;
+  padding-top: 0%;
+  padding-bottom: 2%;
+  word-spacing: 2px;
+  line-break: auto;
+}
+.para-two {
+  padding-right: 10%;
+}
+.orangecolor {
+  color: orange;
+}
+section {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+  padding: 5% 0% 0% 10%;
+}
+.half-width img {
+  width: 59%;
+}
+/* My IMG */
+.side-img {
+  width: 80% !important;
+  height: auto;
+}
+.side-img-two {
+  height: 91.5%;
+  margin-top: 5%;
+  width: 56% !important;
+  margin-left: 10%;
+}
+/* HIRE ME BTN*/
+.primary-btn {
+  text-decoration: none;
+  padding: 18px 44px;
+  color: white;
+  background-image: linear-gradient(to right, orange, tomato);
+  border-radius: 30px;
+  margin-top: 4%;
+}
+.shape {
+  width: 100%;
+}
+.container-two {
+  background-image: url(images/shapes/7.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-top: 5%;
+}
+/* Recipies */
+.recipies-span {
+  font-size: 20px;
+}
+/* section-three */
+.layouts {
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 0px 54px;
+}
+.layout-para {
+  font-size: 15px;
+  padding: 0;
+  margin: 25px;
+}
+.layout-size {
+  padding-top: 1%;
+  padding-bottom: 4%;
+  text-align: center;
+  margin: 4%;
+  background: #f8f8f8;
+  border-radius: 5%;
+  box-shadow: 5px 7px 40px grey;
+}
+.layouts {
+  height: 64%;
+  width: 43%;
+  display: inline-block;
+}
+.my-recipies {
+  text-align: center;
+  padding: 5%;
+}
+.social-div {
+  box-shadow: 5px 7px 40px grey;
+  text-align: center;
+  margin: 0 3% 4% 4%;
+  border-radius: 18px;
+}
+.social-layouts {
+  padding-top: 2%;
+  padding-bottom: 0%;
+  text-align: center;
+  /* margin: 2%; */
+  height: 64%;
+  width: 26%;
+  display: inline-block;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 10px 146px 0px 0px;
+  font-size: 40px;
+}
+footer {
+  background-color: black;
+  text-align: center;
+  padding: 5%;
+}
+.header-white {
+  color: white;
+}
